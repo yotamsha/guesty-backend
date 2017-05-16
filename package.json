@@ -1,0 +1,17 @@
+{
+  "name": "guesty-homework",
+  "version": "1.0.0",
+  "description": "Guesty Homework App",
+  "main": "twitter-api-app.js",
+  "dependencies": {
+    "json2csv": "^3.7.3",
+    "nodemailer": "2.7.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "babel-node --presets es2015 run.js"
+  },
+  "author": "yotam",
+  "license": "ISC"
+}
